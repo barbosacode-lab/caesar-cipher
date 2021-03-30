@@ -1,0 +1,9 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "Academic module to decrypt/encrypt with Caesar code",
+  "main": "lib/index.js",
+  "repository": "https://github.com/lbarbosadata/caesar-cipher",
+  "author": "Leandro de Oliveira Barbosa",
+  "license": "MIT"
+}
