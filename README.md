@@ -15,7 +15,6 @@
 - [How to install](#how-to-install)
 - [License](#license)
 <br>
-<br>
 
 # Description   
 Academic module to decrypt/encrypt with **Caesar Code**.
@@ -51,6 +50,7 @@ The goal was not to make the implementation simple but practice some of the conc
 Requirements 
 > node version >= v14.15.5
 <br>
+
 # How to install  
 <details>
 <summary>
